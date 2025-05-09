@@ -2,7 +2,8 @@
 
 Welcome to the frontend codebase for **ThinkAcademies** — a digital growth engine focused on AI-driven marketing, smart strategy, intelligent SEO, and scroll-stopping social media. Built to scale, designed to convert.
 
-![ThinkAcademies Banner]([assets/images/thinkacademies-banner.png](https://res.cloudinary.com/dkvp2mun2/image/upload/v1746813175/Screenshot_2025-05-09_232235_spni10.png))
+![ThinkAcademies Banner](https://res.cloudinary.com/dkvp2mun2/image/upload/v1746813175/Screenshot_2025-05-09_232235_spni10.png)
+
 
 ---
 
